@@ -1,0 +1,4 @@
+# Dependencies for Smart Logistics Route Optimization System
+# DSA-II Project-Based Learning (PBL)
+
+matplotlib>=3.7.0
